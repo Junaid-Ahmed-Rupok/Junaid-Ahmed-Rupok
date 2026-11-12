@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="11 conference papers, 2 best paper awards, 1 journal article, 3 under review">
-<title>11 conference papers, 2 best paper awards, 1 journal article, 3 under review</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="11 conference papers, 1 journal article, 1 invited chapter, 2 best paper awards, 3 under review">
+<title>11 conference papers, 1 journal article, 1 invited chapter, 2 best paper awards, 3 under review</title>
 <style>
   .serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'DejaVu Serif', serif} .sans{font-family:-apple-system, 'Segoe UI', 'Helvetica Neue', Inter, Arial, sans-serif} .mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace}
   @keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
@@ -22,27 +22,33 @@
   </pattern></defs>
 
 <g>
-  <rect x="0.5" y=".5" width="284.0" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
+  <rect x="0.5" y=".5" width="226.2" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
   <rect x="28.0" y="0" width="40" height="3" rx="1.5" fill="#5eead4"/>
-  <text x="28.0" y="88" class="serif" font-size="58" fill="#5eead4">11</text>
-  <text x="28.0" y="122" class="sans" font-size="15" fill="#8fa0bd">Refereed conference papers</text>
+  <text x="28.0" y="88" class="serif" font-size="54" fill="#5eead4">11</text>
+  <text x="28.0" y="122" class="sans" font-size="14" fill="#8fa0bd">Refereed conference papers</text>
 </g>
 <g>
-  <rect x="305.5" y=".5" width="284.0" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
-  <rect x="333.0" y="0" width="40" height="3" rx="1.5" fill="#fbbf24"/>
-  <text x="333.0" y="88" class="serif" font-size="58" fill="#fbbf24">2</text>
-  <text x="333.0" y="122" class="sans" font-size="15" fill="#8fa0bd">Best paper awards</text>
+  <rect x="243.7" y=".5" width="226.2" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
+  <rect x="271.2" y="0" width="40" height="3" rx="1.5" fill="#7dd3fc"/>
+  <text x="271.2" y="88" class="serif" font-size="54" fill="#7dd3fc">1</text>
+  <text x="271.2" y="122" class="sans" font-size="14" fill="#8fa0bd">Journal article</text>
 </g>
 <g>
-  <rect x="610.5" y=".5" width="284.0" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
-  <rect x="638.0" y="0" width="40" height="3" rx="1.5" fill="#7dd3fc"/>
-  <text x="638.0" y="88" class="serif" font-size="58" fill="#7dd3fc">1</text>
-  <text x="638.0" y="122" class="sans" font-size="15" fill="#8fa0bd">Journal article</text>
+  <rect x="486.9" y=".5" width="226.2" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
+  <rect x="514.4" y="0" width="40" height="3" rx="1.5" fill="#7dd3fc"/>
+  <text x="514.4" y="88" class="serif" font-size="54" fill="#7dd3fc">1</text>
+  <text x="514.4" y="122" class="sans" font-size="14" fill="#8fa0bd">Invited Springer chapter</text>
 </g>
 <g>
-  <rect x="915.5" y=".5" width="284.0" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
-  <rect x="943.0" y="0" width="40" height="3" rx="1.5" fill="#a78bfa"/>
-  <text x="943.0" y="88" class="serif" font-size="58" fill="#a78bfa">3</text>
-  <text x="943.0" y="122" class="sans" font-size="15" fill="#8fa0bd">Manuscripts under review</text>
+  <rect x="730.1" y=".5" width="226.2" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
+  <rect x="757.6" y="0" width="40" height="3" rx="1.5" fill="#fbbf24"/>
+  <text x="757.6" y="88" class="serif" font-size="54" fill="#fbbf24">2</text>
+  <text x="757.6" y="122" class="sans" font-size="14" fill="#8fa0bd">Best paper awards</text>
+</g>
+<g>
+  <rect x="973.3" y=".5" width="226.2" height="149" rx="18" fill="url(#cardbg)" stroke="#1f2d4d"/>
+  <rect x="1000.8" y="0" width="40" height="3" rx="1.5" fill="#a78bfa"/>
+  <text x="1000.8" y="88" class="serif" font-size="54" fill="#a78bfa">3</text>
+  <text x="1000.8" y="122" class="sans" font-size="14" fill="#8fa0bd">Manuscripts under review</text>
 </g>
 </svg>

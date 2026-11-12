@@ -18,11 +18,13 @@
   <img src="./assets/h-about-light.svg" width="100%" alt="01 About" />
 </picture>
 
-I'm a machine learning researcher from Dhaka, Bangladesh. I care less about squeezing another point of accuracy out of a model and more about whether its claims **hold up**: does the effect survive a causal test, are the uncertainties calibrated, does the result reproduce on someone else's machine?
+I'm a machine learning researcher from Dhaka, Bangladesh, developing principled methods for **causal machine learning** and **trustworthy AI**: systems that reason about cause and effect while staying fair, robust, interpretable and reproducible, with applications in criminal justice, environmental governance and healthcare.
 
-I'm a **Research Assistant at the Center for Artificial Intelligence and Robotics (CAIR), Southeast University**, and a CSE graduate of **RUET** (2025). I'm currently looking for a **fully funded Ph.D. position starting Fall 2027**.
+I care less about squeezing another point of accuracy out of a model and more about whether its claims **hold up**: does the effect survive a causal test, are the uncertainties calibrated, does the result reproduce on someone else's machine?
 
-<img src="./assets/stats.svg" width="100%" alt="11 refereed conference papers · 2 best paper awards · 1 journal article · 3 manuscripts under review" />
+I'm a **Research Assistant at the Center for Artificial Intelligence and Robotics (CAIR), Southeast University**, and a CSE graduate of **RUET** (2025, thesis A+). I'm currently looking for a **fully funded Ph.D. position starting Fall 2027**.
+
+<img src="./assets/stats.svg" width="100%" alt="11 refereed conference papers · 1 journal article · 1 invited Springer chapter · 2 best paper awards · 3 manuscripts under review" />
 
 <br/><br/>
 
@@ -69,55 +71,67 @@ Live demos: <a href="https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/">Rep
 </p>
 
 <details open>
-<summary><b>Journal</b></summary>
+<summary><b>Journal article</b></summary>
 <br/>
 
 - **Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance**<br/>
-  S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *Journal of Machine Learning and Applications* 2(1), 9–17 · 2026 · [`DOI`](https://doi.org/10.61577/jmla.2026.100002)
+  S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *Journal of Machine Learning and Applications* 2(1), 9–17 · 2026 · [`DOI`](https://doi.org/10.61577/jmla.2026.100002)<br/>
+  <sub>Extended version of the IEEE SPICSCON 2026 paper.</sub>
 
 </details>
 
 <details open>
-<summary><b>Conference papers</b></summary>
+<summary><b>Refereed conference papers</b></summary>
 <br/>
 
 - **CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification** 🏆<br/>
-  S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · *SPECTRA 2026*, oral · 1st Best Paper Award · [`DOI`](https://doi.org/10.5281/zenodo.21195761)
+  S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *SPECTRA 2026*, oral · **1st Best Paper Award** · [`DOI`](https://doi.org/10.5281/zenodo.21195761)
+- **Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics** 🏆<br/>
+  S.J. Ahmed · *APMEE 2025, IEB*, oral · **Best Research Paper Award** · provisionally accepted in the *Journal of EED, IEB*
 - **Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF**<br/>
-  *IEEE OMLET 2026*, poster
+  S.J. Ahmed · *IEEE OMLET 2026*, poster · IEEE Xplore
 - **Conformal Influence-Driven Realignment (CIDR): A Framework for Restoring Model Reliability under Distribution Shift**<br/>
-  *IEEE CSDE 2026*
+  S.J. Ahmed · *IEEE CSDE 2026*, presented
 - **CalForget: Calibration-Driven Selective Forgetting via Conformal Influence Attribution**<br/>
-  *IEEE CSDE 2026*
-- **Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability**<br/>
-  *ISRC 2026*, oral
+  S.J. Ahmed · *IEEE CSDE 2026*, presented
 - **FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection**<br/>
-  *ICISET 2026*, oral
+  S.J. Ahmed · *ICISET 2026*, oral · ~27% acceptance rate
 - **RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization**<br/>
   S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · *SPECTRA 2026*, oral · [`DOI`](https://doi.org/10.5281/zenodo.21194394)
-- **Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis**<br/>
-  S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · *IEEE SPICSCON 2026*
+- **Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals**<br/>
+  S.J. Ahmed, M.H.R. Kwoshik, M.F.N. Nakib · *IEEE SPICSCON 2026*, presented · IEEE Xplore
 - **Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance**<br/>
-  S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *IEEE SPICSCON 2026* (conference version)
+  S.J. Ahmed, M.H.R. Kwoshik, M.F.N. Nakib · *IEEE SPICSCON 2026*, presented · IEEE Xplore
 - **DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping**<br/>
-  *IEMIS 2026*, Springer LNNS
-- **Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study**<br/>
-  *IEMIS 2026*, Springer LNNS
-- **Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics** 🏆<br/>
-  *APMEE 2025 (IEB)*, oral · Best Research Paper Award
+  S.J. Ahmed · *IEMIS 2026* · Springer LNNS
+- **Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis**<br/>
+  S.J. Ahmed · *IEMIS 2026* · Springer LNNS
 
 </details>
 
 <details>
-<summary><b>Under review &amp; book chapter</b></summary>
+<summary><b>Conference abstracts</b></summary>
 <br/>
 
+- **Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability**<br/>
+  S.J. Ahmed · *ISRC 2026*, University of Dhaka, oral · ~20% acceptance rate
+- **Conformal Influence-Driven Realignment (CIDR): A Framework for Restoring Model Reliability under Distribution Shift**<br/>
+  S.J. Ahmed, M.H.R. Kwoshik · *1st National Science Conference 2026*, Barishal University Science Club · Certificate of Appreciation
+
+</details>
+
+<details>
+<summary><b>Book chapter &amp; manuscripts under review</b></summary>
+<br/>
+
+- **Generative AI and Mathematical Optimization for Football Match Outcome Prediction**<br/>
+  S.J. Ahmed · invited chapter in M. Lahby (ed.), *Generative AI and Mathematical Optimization for Performance and Innovation in Football*, Springer · under review
 - **DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions**<br/>
-  *Transactions on Machine Learning Research (TMLR)*, under review
+  S.J. Ahmed · *Transactions on Machine Learning Research (TMLR)* · under review
 - **Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers**<br/>
-  *ICRPSET 2026*, under review
-- **Generative AI and Mathematical Optimization for Football Match Outcome Prediction: A Comparative Study of CatBoost, XGBoost, and TabNet with Kelly Index Stratification**<br/>
-  Invited chapter, M. Lahby (ed.), *Springer Optimization and Its Applications*, under review
+  S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *ICRPSET 2026* · under review
+- **Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability**<br/>
+  S.J. Ahmed · *ICEEICT 2027* · under review
 
 </details>
 
@@ -128,7 +142,7 @@ Live demos: <a href="https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/">Rep
   <img src="./assets/h-journey-light.svg" width="100%" alt="05 Journey" />
 </picture>
 
-<img src="./assets/journey.svg" width="100%" alt="2019 tutor & mentor · 2022 Senior Data Analyst & Research Lead, YLRL RUET · 2024 independent researcher · 2025 B.Sc. CSE, RUET · 2026 Research Assistant, CAIR" />
+<img src="./assets/journey.svg" width="100%" alt="2019 tutor & peer mentor · 2022 Senior Researcher & Executive Committee Member, YLRL RUET · 2024 independent researcher · 2025 B.Sc. CSE, RUET · 2026 Research Assistant, CAIR" />
 
 <br/><br/>
 
@@ -145,7 +159,13 @@ Live demos: <a href="https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/">Rep
 <summary><b>Beyond research</b></summary>
 <br/>
 
-Before the p-values there was a radio mic. I hosted a weekly radio show during COVID that reached around 10,000 listeners, published a Bengali poetry collection (*Sob Odvuture*), and have written and performed 15+ original songs. Storytelling and statistics turn out to want the same thing: something worth trusting.
+- 📖 **Published poet**: author of *Sob Odvuture* (*All Adventures*), a Bengali collection of 50+ poems
+- 🎙️ **Radio host**: *Suspense with RJ Rupok* on Radio Kothabondhu, and shows on Radio RUET
+- 🎵 **Musician**: lyricist, composer and singer of original songs
+- 🧑‍🏫 **Mentor**: free tutoring for students from disadvantaged backgrounds since 2019; guided five students to perfect 5.00 GPAs and four into RUET, BUET and CUET
+- 🏐 **Leadership**: volleyball captain, parade commander and scout leader at school; Best Speller Award, Pabna Cadet College
+
+Storytelling and statistics turn out to want the same thing: something worth trusting.
 
 </details>
 
