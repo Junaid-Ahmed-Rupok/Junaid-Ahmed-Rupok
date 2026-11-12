@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="290" viewBox="0 0 590 290" role="img" aria-label="ReproHub: Re-runs a paper's statistical analyses on its raw data and reports, claim by claim, whether the published results actually hold up.">
+<title>ReproHub: Re-runs a paper's statistical analyses on its raw data and reports, claim by claim, whether the published results actually hold up.</title>
+<style>
+  .serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'DejaVu Serif', serif} .sans{font-family:-apple-system, 'Segoe UI', 'Helvetica Neue', Inter, Arial, sans-serif} .mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  @keyframes ring{0%{r:6;opacity:.7}100%{r:16;opacity:0}}
+  @keyframes flow{to{stroke-dashoffset:-48}}
+  @keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
+  .fade{animation:fadeUp .9s ease-out both}
+  
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5eead4"/><stop offset=".5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#121f3a"/><stop offset="1" stop-color="#0d1528"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#8fa0bd" opacity=".16"/>
+  </pattern><radialGradient id="cg" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#a78bfa" stop-opacity=".12"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient></defs>
+
+<rect x=".5" y=".5" width="589" height="289" rx="20" fill="url(#cardbg)" stroke="#1f2d4d"/>
+<rect x=".5" y=".5" width="589" height="289" rx="20" fill="url(#cg)"/>
+<rect x="34" y="0" width="56" height="3" rx="1.5" fill="#a78bfa"/>
+<text x="34" y="48" class="mono" font-size="12" letter-spacing="2.2" fill="#a78bfa">REPRODUCIBILITY</text>
+<rect x="457" y="30" width="99" height="26" rx="13" fill="#4ade80" fill-opacity=".1" stroke="#4ade80" stroke-opacity=".45"/>
+<text x="506" y="47.5" text-anchor="middle" class="mono" font-size="12" fill="#4ade80">● live app</text>
+<text x="33" y="92" class="serif" font-size="32" fill="#eef2f8">ReproHub</text>
+<text x="556" y="92" text-anchor="end" class="sans" font-size="20" fill="#5b6b8a">↗</text>
+<text x="34" y="116" class="sans" font-size="14" fill="#5b6b8a" letter-spacing=".3">Automated research reproducibility platform</text><text x="34" y="150" class="sans" font-size="15.5" fill="#8fa0bd">Re-runs a paper's statistical analyses on its raw data</text><text x="34" y="175" class="sans" font-size="15.5" fill="#8fa0bd">and reports, claim by claim, whether the published</text><text x="34" y="200" class="sans" font-size="15.5" fill="#8fa0bd">results actually hold up.</text><rect x="34" y="236" width="70" height="26" rx="13.0" fill="#7dd3fc" fill-opacity=".09" stroke="#7dd3fc" stroke-opacity=".38"/><text x="69" y="253.3" text-anchor="middle" class="mono" font-size="12" fill="#7dd3fc">Python</text><rect x="111.92" y="236" width="63" height="26" rx="13.0" fill="#7dd3fc" fill-opacity=".09" stroke="#7dd3fc" stroke-opacity=".38"/><text x="143" y="253.3" text-anchor="middle" class="mono" font-size="12" fill="#7dd3fc">SciPy</text><rect x="182.51999999999998" y="236" width="92" height="26" rx="13.0" fill="#7dd3fc" fill-opacity=".09" stroke="#7dd3fc" stroke-opacity=".38"/><text x="228" y="253.3" text-anchor="middle" class="mono" font-size="12" fill="#7dd3fc">Streamlit</text>
+
+</svg>
