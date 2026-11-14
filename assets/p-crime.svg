@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="Crime Analytics: Fairness-aware classification under heavy class imbalance, with spatio-temporal features. Grew into a journal article. 93% accuracy · 6 classes. xgboost · smote">
+<title>Crime Analytics: Fairness-aware classification under heavy class imbalance, with spatio-temporal features. Grew into a journal article. 93% accuracy · 6 classes. xgboost · smote</title>
+<style>
+  .serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'DejaVu Serif', serif}
+  .mono{font-family:ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes pop{from{opacity:0}to{opacity:1}}
+  @keyframes breathe{0%,100%{opacity:.35}50%{opacity:.9}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  .r{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+</style>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 1  0 0 0 0 .95  0 0 0 0 .85  0 0 0 .06 0"/>
+  </filter>
+  <radialGradient id="vig" cx="30%" cy="20%" r="90%">
+    <stop offset="0" stop-color="#211d18"/><stop offset="1" stop-color="#14120f"/>
+  </radialGradient>
+</defs>
+<rect width="590" height="300" rx="14" fill="url(#vig)"/>
+<rect width="590" height="300" rx="14" filter="url(#grain)"/>
+<rect x=".5" y=".5" width="589" height="299" rx="13.5" fill="none" stroke="#2c2822"/>
+<text x="36" y="52" class="mono" font-size="12" fill="#d4805f" letter-spacing="2">04 — FAIRNESS</text>
+<text x="554" y="52" class="serif" font-size="22" fill="#8f8676" text-anchor="end">↗</text>
+<text x="34" y="108" class="serif" font-size="38" fill="#ece4d4" letter-spacing="-.5">Crime Analytics</text>
+<text x="36" y="146" class="serif" font-size="17" fill="#ece4d4" opacity=".72">Fairness-aware classification under heavy class</text>
+<text x="36" y="170" class="serif" font-size="17" fill="#ece4d4" opacity=".72">imbalance, with spatio-temporal features.</text>
+<text x="36" y="194" class="serif" font-size="17" fill="#ece4d4" opacity=".72">Grew into a journal article.</text>
+<line x1="36" y1="226" x2="554" y2="226" stroke="#2c2822"/>
+<text x="36" y="262" class="serif" font-size="26" fill="#d4805f">93%<tspan dx="14" dy="-4" class="mono" font-size="10" fill="#8f8676" letter-spacing="1.8">ACCURACY · 6 CLASSES</tspan></text>
+<text x="554" y="258" class="mono" font-size="11" fill="#8f8676" text-anchor="end" letter-spacing=".5">xgboost · smote</text>
+</svg>

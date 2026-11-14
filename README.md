@@ -1,188 +1,145 @@
-<div align="center">
+<a href="https://junaid-ahmed-rupok.github.io/My-World/"><img src="./assets/hero.svg" width="100%" alt="Sarder Junaid Ahmed — causal machine learning, trustworthy AI, reproducible science" /></a>
 
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/> <b>Hi, I'm Junaid</b>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarder%20Junaid%20Ahmed&fontSize=52&fontColor=e2f0f9&fontAlignY=38&desc=ML%20Researcher%20%7C%20Trustworthy%20AI%20%26%20Data%20%7C%20Graduate%20Applicant&descAlignY=60&descColor=7fb3d3&animation=fadeIn" />
-
-<a href="https://github.com/Junaid-Ahmed-Rupok"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7fb3d3&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/sarder-junaid-ahmed-059b68240/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7fb3d3&labelColor=0d1117" /></a>
-<a href="https://junaid-ahmed-rupok.github.io/My-World/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=7fb3d3&labelColor=0d1117" /></a>
-<a href="https://statistical-analysis-app-7axetqtx75ncuu7fr8irxj.streamlit.app/"><img src="https://img.shields.io/badge/StatsPro-0d1117?style=for-the-badge&logo=streamlit&logoColor=7fb3d3&labelColor=0d1117" /></a>
-<a href="mailto:junaidahmedrupok@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7fb3d3&labelColor=0d1117" /></a>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=I+turn+p-values+into+decisions;Causal+inference+%7C+Trustworthy+AI;Not+just+ML+%E2%80%94+ML+you+can+trust&font=JetBrains+Mono&center=true&width=520&height=45&color=7fb3d3&vCenter=true&pause=1200&size=18" />
-
-</div>
+<p align="center">
+<sub>
+<a href="https://junaid-ahmed-rupok.github.io/My-World/"><b>PORTFOLIO</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sarder-junaid-ahmed-059b68240/"><b>LINKEDIN</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="mailto:junaidahmedrupok@gmail.com"><b>EMAIL</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="#writing"><b>PAPERS</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://junaid-ahmed-rupok.github.io/1797_Junaid_Portfolio/"><b>RETRO SITE</b></a>
+</sub>
+</p>
 
 <br/>
 
-> 🏆 Two "Best Paper" awards in twelve months. 📄 Eleven peer-reviewed conference papers and a journal article, all first-authored. 🎙️ Once hosted a weekly late-night radio show. Now I make machines talk sense instead.
+<img src="./assets/h-work.svg" width="100%" alt="01 — the work" />
 
+Most ML pipelines quietly skip the statistics. I don't.
+
+I work on **causal machine learning** and **trustworthy AI**: models that reason about cause and effect, carry honest uncertainty, treat people fairly, and give the same answer on someone else's machine. Before I believe a claim — a model's accuracy, a policy's effect, a paper's result — it has to survive a hypothesis test.
+
+*Causal inference instead of correlation-shrugging. Calibrated uncertainty instead of point-estimate confidence. Reproducibility instead of "it ran on my machine."*
+
+<img src="./assets/numbers.svg" width="100%" alt="2 best paper awards · 11 peer-reviewed conference papers · 1 journal article · 1 invited Springer chapter · 3 manuscripts under review" />
+
+<br/><br/>
+
+<img src="./assets/h-built.svg" width="100%" alt="02 — things I built" />
+
+<p align="center">
+<a href="https://github.com/Junaid-Ahmed-Rupok/ReproHub"><img src="./assets/p-reprohub.svg" width="49%" alt="ReproHub" /></a>
+<a href="https://github.com/Junaid-Ahmed-Rupok/statistical-analysis-app"><img src="./assets/p-statspro.svg" width="49%" alt="StatsPro" /></a>
+<a href="https://github.com/Junaid-Ahmed-Rupok/smart-rag-chatbot"><img src="./assets/p-rag.svg" width="49%" alt="Smart RAG Chatbot" /></a>
+<a href="https://github.com/Junaid-Ahmed-Rupok/BD_Crime_Analysis"><img src="./assets/p-crime.svg" width="49%" alt="Crime Analytics" /></a>
+</p>
+
+<p align="center"><sub>
+<b>TRY THEM</b> &nbsp;—&nbsp;
+<a href="https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/">ReproHub</a> ·
+<a href="https://statistical-analysis-app-7axetqtx75ncuu7fr8irxj.streamlit.app/">StatsPro</a> ·
+<a href="https://smart-rag-chatbot-izxizdewwebpsrmhhufyxe.streamlit.app/">Smart RAG Chatbot</a>
+</sub></p>
+
+<details>
+<summary><b>Smaller things</b></summary>
 <br/>
 
-## ⚡ The 10-Second Version
-
-| | |
-|---|---|
-| 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
-| 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
-| 🛠️ **Built** | ReproHub (43 tests, Docker, CI) · StatsPro · Continuum (persistent-memory RAG) · a citation-obsessed RAG chatbot |
-| 📝 **Publishing** | 1 journal article, 11 peer-reviewed conference papers, 1 invited book chapter, 3 manuscripts under review |
-| 🎓 **Next** | Graduate study (M.Sc./Ph.D.) in data engineering, machine learning and trustworthy AI |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
-## 🧠 What I Actually Do
-
-Most ML pipelines quietly skip the statistics part. I don't. I build systems where every claim — a model's accuracy, a policy's effect, a paper's result — has to survive a hypothesis test before I believe it.
-
-That means: causal inference instead of correlation-shrugging, uncertainty quantification instead of point-estimate overconfidence, and reproducibility checks instead of "trust me, it ran on my machine."
-
-**Say it in one line:** *statistically rigorous, causally grounded, reproducible ML — for problems big enough to matter (governance, fairness, public policy).*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
-## 🛠️ Stuff I Built (that people actually use)
-
-<div align="center">
-
-| | Project | Built with | Why it's cool |
-|:---:|:---|:---|:---|
-| ♻️ | **[ReproHub](https://github.com/Junaid-Ahmed-Rupok/ReproHub)** &nbsp;[[live]](https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/) | Python · SciPy | Re-runs a paper's stats on the raw data and *actually checks* if the claims hold — not just "is p < 0.05" |
-| 📊 | **[StatsPro](https://github.com/Junaid-Ahmed-Rupok/statistical-analysis-app)** &nbsp;[[live]](https://statistical-analysis-app-7axetqtx75ncuu7fr8irxj.streamlit.app/) | Streamlit · scikit-learn | CSV in, full report out — data-quality scoring, logged cleaning pipeline, 10 tests with FDR control, 6 ML models |
-| 🤖 | **[Smart RAG Chatbot](https://github.com/Junaid-Ahmed-Rupok/smart-rag-chatbot)** &nbsp;[[live]](https://smart-rag-chatbot-izxizdewwebpsrmhhufyxe.streamlit.app/) | LangChain · FAISS | Refuses to answer without citing the exact passage. No hallucinated sources allowed |
-| 🤗 | **[IMDb Transformer](https://github.com/Junaid-Ahmed-Rupok/imdb-transformer-sentiment)** | PyTorch · DistilBERT | 87% accuracy, loss dropped 0.44 → 0.16 in 3 epochs |
-| 🌍 | **[Economic Classification](https://github.com/Junaid-Ahmed-Rupok/economic_status)** | XGBoost | 98.3% accuracy sorting 150+ countries by World Bank data |
-| 🔍 | **[Crime Analytics](https://github.com/Junaid-Ahmed-Rupok/BD_Crime_Analysis)** | XGBoost · SMOTE | 93% accuracy across 6 crime types, spatial-temporal features |
-| 🏭 | **[Enterprise Survey EDA](https://github.com/Junaid-Ahmed-Rupok/_Annual_EnterPriese_survey_by_Junaid_Rupok)** | Pandas · SciPy | ANOVA across 55,620 records, 117 industries (p < 0.001, for real) |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
-## 📚 Papers (the receipts)
-
-<details open>
-<summary><b>🏆 Award-winning work</b></summary>
-<br/>
-
-- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."** *Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026).* Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
-- Ahmed, S.J. (2025). **"Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics."** *6th Annual Paper Meet Electrical Engineering Division (APMEE 2025).* Oral Presentation. 🏆 **Best Research Paper Award.**
-
-</details>
-
-<details open>
-<summary><b>📄 Journal & conference publications</b></summary>
-<br/>
-
-- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *Journal of Machine Learning and Applications*, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
-- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."** *SPECTRA 2026.* Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
-- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** *5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026).* BAUET, Bangladesh. August 13–14, 2026. **Presented.** IEEE Xplore.
-- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *SPICSCON 2026.* BAUET, Bangladesh. August 13–14, 2026. **Presented.** IEEE Xplore. *(conference version of the journal article above)*
-- Ahmed, S.J. (2026). **"DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping."** *IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security.* UBC, Vancouver, Canada. August 10–12, 2026. **Accepted for Presentation.** Springer LNNS Series (Scopus, EI-Compendex, DBLP, ISI Proceedings).
-- Ahmed, S.J. (2026). **"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."** *IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security.* UBC, Vancouver, Canada. August 10–12, 2026. **Accepted for Presentation.** Springer LNNS Series (Scopus, EI-Compendex, DBLP, ISI Proceedings).
-- Ahmed, S.J. (2026). **"Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF."** *IEEE OMLET 2026.* **Accepted.** Poster Presentation. IEEE Xplore.
-- Ahmed, S.J. (2026). **"FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection."** *5th International Conference on Innovations in Science, Engineering and Technology (ICISET 2026).* **Accepted** (~27% acceptance rate). Oral Presentation.
-- Ahmed, S.J. (2026). **"Conformal Influence-Driven Realignment (CIDR): A Framework for Restoring Model Reliability under Distribution Shift."** *IEEE CSDE 2026.* **Presented.**
-- Ahmed, S.J. (2026). **"CalForget: Calibration-Driven Selective Forgetting via Conformal Influence Attribution."** *IEEE CSDE 2026.* **Presented.**
-
-</details>
-
-<details open>
-<summary><b>📖 Book chapter (invited)</b></summary>
-<br/>
-
-- Ahmed, S.J. (2026). **"Generative AI and Mathematical Optimization for Football Match Outcome Prediction: A Comparative Study of CatBoost, XGBoost, and TabNet with Kelly Index Stratification."** In: Lahby, M. (ed.), *Generative AI and Mathematical Optimization for Performance and Innovation in Football*, Springer Optimization and Its Applications. Springer, Cham. *(Invited Chapter, Under Review)*
-
-</details>
-
-<details open>
-<summary><b>🔬 Manuscripts under review</b></summary>
-<br/>
-
-- Ahmed, S.J. (2026). **"DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions."** Under review at *Transactions on Machine Learning Research (TMLR)*.
-- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers."** Under review at ICRPSET 2026.
-- Ahmed, S.J. (2026). **"Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability."** Under review at ICEEICT 2027. *(Abstract presented orally at ISRC 2026.)*
+| | | |
+|:--|:--|:--|
+| [**IMDb Transformer**](https://github.com/Junaid-Ahmed-Rupok/imdb-transformer-sentiment) | PyTorch · DistilBERT | 87% accuracy; loss 0.44 → 0.16 in three epochs |
+| [**Economic Classification**](https://github.com/Junaid-Ahmed-Rupok/economic_status) | XGBoost | 98.3% accuracy sorting 150+ countries from World Bank data |
+| [**Enterprise Survey EDA**](https://github.com/Junaid-Ahmed-Rupok/_Annual_EnterPriese_survey_by_Junaid_Rupok) | Pandas · SciPy | ANOVA across 55,620 records and 117 industries |
 
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
+<a id="writing"></a>
+<img src="./assets/h-writing.svg" width="100%" alt="03 — writing" />
 
-## 🐍 Live from GitHub
+**Awarded**
 
-<div align="center">
+- **CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification**<br/>
+  <sub>S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · SPECTRA 2026 · oral · **1st Best Paper Award** · [DOI](https://doi.org/10.5281/zenodo.21195761)</sub>
+- **Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics**<br/>
+  <sub>S.J. Ahmed · APMEE 2025 · oral · **Best Research Paper Award**</sub>
 
-<img src="https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/Junaid-Ahmed-Rupok/output/github-contribution-grid-snake.svg" alt="A snake animation eating through my contribution graph" />
+**Journal**
 
-<sub>Updates daily · powered by a GitHub Action, not a static image</sub>
+- **Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance**<br/>
+  <sub>S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · *Journal of Machine Learning and Applications* 2(1), 9–17 · 2026 · [DOI](https://doi.org/10.61577/jmla.2026.100002)</sub>
 
-</div>
+<details>
+<summary><b>Conference papers</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
+- **RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization**<br/>
+  <sub>S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · SPECTRA 2026 · oral · [DOI](https://doi.org/10.5281/zenodo.21194394)</sub>
+- **Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis**<br/>
+  <sub>S.J. Ahmed, M.T. Islam Nahian, M.H.R. Kwoshik · IEEE SPICSCON 2026, BAUET · presented · IEEE Xplore</sub>
+- **Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance**<br/>
+  <sub>S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · IEEE SPICSCON 2026, BAUET · presented · IEEE Xplore · conference version of the journal article</sub>
+- **DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping**<br/>
+  <sub>S.J. Ahmed · IEMIS 2026, UBC Vancouver · accepted · Springer LNNS</sub>
+- **Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study**<br/>
+  <sub>S.J. Ahmed · IEMIS 2026, UBC Vancouver · accepted · Springer LNNS</sub>
+- **Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF**<br/>
+  <sub>S.J. Ahmed · IEEE OMLET 2026 · accepted · poster · IEEE Xplore</sub>
+- **FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection**<br/>
+  <sub>S.J. Ahmed · ICISET 2026 · accepted (~27% acceptance) · oral</sub>
+- **Conformal Influence-Driven Realignment (CIDR): A Framework for Restoring Model Reliability under Distribution Shift**<br/>
+  <sub>S.J. Ahmed · IEEE CSDE 2026 · presented</sub>
+- **CalForget: Calibration-Driven Selective Forgetting via Conformal Influence Attribution**<br/>
+  <sub>S.J. Ahmed · IEEE CSDE 2026 · presented</sub>
 
-## 🧰 Tech I Reach For
+</details>
 
-<div align="center">
+<details>
+<summary><b>Book chapter & manuscripts under review</b></summary>
+<br/>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7fb3d3)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7fb3d3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=7fb3d3)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=7fb3d3)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=7fb3d3)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=7fb3d3)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=7fb3d3)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=7fb3d3)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7fb3d3)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=7fb3d3)
+- **Generative AI and Mathematical Optimization for Football Match Outcome Prediction: A Comparative Study of CatBoost, XGBoost, and TabNet with Kelly Index Stratification**<br/>
+  <sub>S.J. Ahmed · invited chapter in M. Lahby (ed.), *Generative AI and Mathematical Optimization for Performance and Innovation in Football*, Springer Optimization and Its Applications · under review</sub>
+- **DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions**<br/>
+  <sub>S.J. Ahmed · *Transactions on Machine Learning Research (TMLR)* · under review</sub>
+- **Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers**<br/>
+  <sub>S.J. Ahmed, M.H.R. Kwoshik, M.T. Islam Nahian · ICRPSET 2026 · under review</sub>
+- **Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability**<br/>
+  <sub>S.J. Ahmed · ICEEICT 2027 · under review · abstract presented orally at ISRC 2026</sub>
 
-**The math behind it:** Hypothesis testing · Bayesian & causal inference · Bootstrap · FDR correction · Uncertainty quantification · Measure-theoretic probability
-
-</div>
+</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
+<img src="./assets/h-now.svg" width="100%" alt="04 — now & before" />
 
-## 🔬 Day Job vs. Side Quests
+**Now** — Research Assistant, Center for Artificial Intelligence and Robotics (CAIR), Southeast University. Robust, trustworthy AI; mentoring junior researchers in experimental design and scientific writing. Looking for graduate study (M.Sc. / Ph.D.) where I can do this at scale.
 
-**Research Assistant, Center for Artificial Intelligence and Robotics (CAIR), Southeast University** (2026–present) — research on robust, trustworthy AI; mentoring junior researchers in experimental design and scientific writing.
+**2026** — Research Trainee, Royal Scientific Publications. Mathematical content and worked solutions in Higher Mathematics for SSC/HSC guide books.
 
-**Research Trainee, Royal Scientific Publications** (2026) — developed mathematical content and fully worked solutions in Higher Mathematics for SSC/HSC guide books.
+**2022 – 2024** — Senior Researcher, Young Learners' Research Lab, RUET. Ran the lab's hypothesis-testing pipeline, mentored 5+ junior researchers, and made "reproducible" the default.
 
-**Senior Researcher, Young Learners' Research Lab, RUET** (2022–2024) — ran the lab's hypothesis-testing pipeline, mentored 5+ junior researchers, and made "reproducible" the lab's default, not the exception.
+**Always** — Free tutoring for underprivileged students: 10+ taught, four mentored into RUET / BUET / CUET, five guided to perfect board-exam GPAs.
 
-**On the side:** tutored 10+ underprivileged students for free, mentored 4 into RUET/BUET/CUET, guided 5 to perfect board-exam GPAs — because good statistics should help real people, not just impress reviewers.
+**Before the math** — a radio mic. I wrote and hosted a weekly late-night suspense show on Radio Kothabondhu, published a Bengali poetry collection (*Sob Odvuture*, 54 poems), and wrote and sang a few songs of my own. Storytelling and statistics turn out to want the same thing: something worth trusting.
 
-<br/>
+<sub>B.Sc. CSE, RUET &nbsp;·&nbsp; HSC / SSC 5.00 / 5.00 &nbsp;·&nbsp; IELTS 7.0</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
+<br/><br/>
 
-## 🎙️ Before the Math
+<img src="./assets/h-toolkit.svg" width="100%" alt="05 — toolkit" />
 
-Before the p-values, there was a radio mic. I wrote and hosted a weekly late-night suspense show on Radio Kothabondhu, published a Bengali poetry collection (*"Sob Odvuture"*, 54 poems), and wrote and sang a few original songs. Turns out storytelling and statistical rigor want the same thing: something worth trusting.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
-<div align="center">
-
-**🎓 B.Sc. CSE, RUET** · **HSC/SSC: perfect 5.00/5.00** · **IELTS 7.0**
-
-### 🎯 Currently chasing: graduate study that lets me do this at scale
+```text
+models      pytorch · tensorflow · scikit-learn · xgboost · huggingface · langchain · faiss
+statistics  hypothesis testing · bootstrap · fdr control · bayesian & causal inference
+            uncertainty quantification · conformal prediction
+craft       python · docker · git · linux · streamlit · jupyter · latex
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Let%27s%20build%20something%20rigorous%20together&fontSize=18&fontColor=7fb3d3&fontAlignY=65&animation=fadeIn" />
+<a href="mailto:junaidahmedrupok@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let's build machine learning you can actually trust." /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Junaid-Ahmed-Rupok&label=Profile+Views&color=2c5364&style=flat-square" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Junaid-Ahmed-Rupok&label=visitors&color=14120f&style=flat-square" alt="Profile views" />
+</p>
