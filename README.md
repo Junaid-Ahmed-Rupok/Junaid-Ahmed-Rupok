@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/> <b>Hi, I'm Junaid</b>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarder%20Junaid%20Ahmed&fontSize=52&fontColor=e2f0f9&fontAlignY=38&desc=ML%20Researcher%20%7C%20PhD%20Applicant%20%7C%20Computational%20Science&descAlignY=60&descColor=7fb3d3&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarder%20Junaid%20Ahmed&fontSize=52&fontColor=e2f0f9&fontAlignY=38&desc=ML%20Researcher%20%7C%20Trustworthy%20AI%20%26%20Data%20%7C%20Graduate%20Applicant&descAlignY=60&descColor=7fb3d3&animation=fadeIn" />
 
 <a href="https://github.com/Junaid-Ahmed-Rupok"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7fb3d3&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/sarder-junaid-ahmed-059b68240/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7fb3d3&labelColor=0d1117" /></a>
@@ -16,7 +16,7 @@
 
 <br/>
 
-> 🏆 Two "Best Paper" trophies in twelve months. 📊 Three research groups run their analysis on tools I built. 🎙️ Once had 10,000 people tuning in to hear me talk on the radio. Now I make machines talk sense instead.
+> 🏆 Two "Best Paper" awards in twelve months. 📄 Eleven peer-reviewed conference papers and a journal article, all first-authored. 🎙️ Once hosted a weekly late-night radio show. Now I make machines talk sense instead.
 
 <br/>
 
@@ -26,9 +26,9 @@
 |---|---|
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
 | 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
-| 🛠️ **Built** | StatsPro · ReproHub · a citation-obsessed RAG chatbot |
-| 📝 **Publishing** | 1 journal article, 1 invited book chapter, 7 conference papers, 2 more in review |
-| 🎓 **Next** | Hunting for a PhD in Computational Science / ML / Governance Analytics |
+| 🛠️ **Built** | ReproHub (43 tests, Docker, CI) · StatsPro · Continuum (persistent-memory RAG) · a citation-obsessed RAG chatbot |
+| 📝 **Publishing** | 1 journal article, 11 peer-reviewed conference papers, 1 invited book chapter, 3 manuscripts under review |
+| 🎓 **Next** | Graduate study (M.Sc./Ph.D.) in data engineering, machine learning and trustworthy AI |
 
 <br/>
 
@@ -53,7 +53,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 | | Project | Built with | Why it's cool |
 |:---:|:---|:---|:---|
 | ♻️ | **[ReproHub](https://github.com/Junaid-Ahmed-Rupok/ReproHub)** &nbsp;[[live]](https://reproapp-8jb7vbhnqyltxq23bsr8xn.streamlit.app/) | Python · SciPy | Re-runs a paper's stats on the raw data and *actually checks* if the claims hold — not just "is p < 0.05" |
-| 📊 | **[StatsPro](https://github.com/Junaid-Ahmed-Rupok/statistical-analysis-app)** &nbsp;[[live]](https://statistical-analysis-app-7axetqtx75ncuu7fr8irxj.streamlit.app/) | Streamlit · scikit-learn | CSV in, full report out — 10 tests, 6 ML models, AI-narrated insights. 3 research groups run on it |
+| 📊 | **[StatsPro](https://github.com/Junaid-Ahmed-Rupok/statistical-analysis-app)** &nbsp;[[live]](https://statistical-analysis-app-7axetqtx75ncuu7fr8irxj.streamlit.app/) | Streamlit · scikit-learn | CSV in, full report out — data-quality scoring, logged cleaning pipeline, 10 tests with FDR control, 6 ML models |
 | 🤖 | **[Smart RAG Chatbot](https://github.com/Junaid-Ahmed-Rupok/smart-rag-chatbot)** &nbsp;[[live]](https://smart-rag-chatbot-izxizdewwebpsrmhhufyxe.streamlit.app/) | LangChain · FAISS | Refuses to answer without citing the exact passage. No hallucinated sources allowed |
 | 🤗 | **[IMDb Transformer](https://github.com/Junaid-Ahmed-Rupok/imdb-transformer-sentiment)** | PyTorch · DistilBERT | 87% accuracy, loss dropped 0.44 → 0.16 in 3 epochs |
 | 🌍 | **[Economic Classification](https://github.com/Junaid-Ahmed-Rupok/economic_status)** | XGBoost | 98.3% accuracy sorting 150+ countries by World Bank data |
@@ -83,10 +83,14 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 - Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *Journal of Machine Learning and Applications*, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
 - Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."** *SPECTRA 2026.* Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
-- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** *5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026).* BAUET, Bangladesh. August 13–14, 2026. **Accepted for Presentation.** IEEE Xplore.
-- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *SPICSCON 2026.* BAUET, Bangladesh. August 13–14, 2026. **Accepted for Presentation.** IEEE Xplore. *(conference presentation of the journal article above)*
+- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** *5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026).* BAUET, Bangladesh. August 13–14, 2026. **Presented.** IEEE Xplore.
+- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *SPICSCON 2026.* BAUET, Bangladesh. August 13–14, 2026. **Presented.** IEEE Xplore. *(conference version of the journal article above)*
 - Ahmed, S.J. (2026). **"DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping."** *IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security.* UBC, Vancouver, Canada. August 10–12, 2026. **Accepted for Presentation.** Springer LNNS Series (Scopus, EI-Compendex, DBLP, ISI Proceedings).
 - Ahmed, S.J. (2026). **"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."** *IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security.* UBC, Vancouver, Canada. August 10–12, 2026. **Accepted for Presentation.** Springer LNNS Series (Scopus, EI-Compendex, DBLP, ISI Proceedings).
+- Ahmed, S.J. (2026). **"Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF."** *IEEE OMLET 2026.* **Accepted.** Poster Presentation. IEEE Xplore.
+- Ahmed, S.J. (2026). **"FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection."** *5th International Conference on Innovations in Science, Engineering and Technology (ICISET 2026).* **Accepted** (~27% acceptance rate). Oral Presentation.
+- Ahmed, S.J. (2026). **"Conformal Influence-Driven Realignment (CIDR): A Framework for Restoring Model Reliability under Distribution Shift."** *IEEE CSDE 2026.* **Presented.**
+- Ahmed, S.J. (2026). **"CalForget: Calibration-Driven Selective Forgetting via Conformal Influence Attribution."** *IEEE CSDE 2026.* **Presented.**
 
 </details>
 
@@ -102,8 +106,9 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 <summary><b>🔬 Manuscripts under review</b></summary>
 <br/>
 
-- Ahmed, S.J. (2026). **"DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions."** Under review at *Transactions on Machine Learning Research (TMLR)*. **(Q1, Top-Tier Journal)**
-- Ahmed, S.J. (2026). **"FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection."** Under review at ICISET 2026 (IEEE Xplore).
+- Ahmed, S.J. (2026). **"DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions."** Under review at *Transactions on Machine Learning Research (TMLR)*.
+- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers."** Under review at ICRPSET 2026.
+- Ahmed, S.J. (2026). **"Identification-Aware Selective Prediction: A Decision-Theoretic Framework for Causal AI Reliability."** Under review at ICEEICT 2027. *(Abstract presented orally at ISRC 2026.)*
 
 </details>
 
@@ -148,11 +153,13 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 ## 🔬 Day Job vs. Side Quests
 
-**Researcher, Royal Scientific Publications** (2026–present) — chasing open problems in computational science and applied ML.
+**Research Assistant, Center for Artificial Intelligence and Robotics (CAIR), Southeast University** (2026–present) — research on robust, trustworthy AI; mentoring junior researchers in experimental design and scientific writing.
 
-**Senior Researcher, Young Learners' Research Lab, RUET** (2022–2024) — ran the lab's hypothesis-testing pipeline, mentored 5+ junior researchers (one shipped their first conference paper because of it), and made "reproducible" the lab's default, not the exception.
+**Research Trainee, Royal Scientific Publications** (2026) — developed mathematical content and fully worked solutions in Higher Mathematics for SSC/HSC guide books.
 
-**On the side:** tutored 50+ underprivileged students for free, mentored 4 into RUET/BUET/CUET, guided 5 to perfect board-exam GPAs — because good statistics should help real people, not just impress reviewers.
+**Senior Researcher, Young Learners' Research Lab, RUET** (2022–2024) — ran the lab's hypothesis-testing pipeline, mentored 5+ junior researchers, and made "reproducible" the lab's default, not the exception.
+
+**On the side:** tutored 10+ underprivileged students for free, mentored 4 into RUET/BUET/CUET, guided 5 to perfect board-exam GPAs — because good statistics should help real people, not just impress reviewers.
 
 <br/>
 
@@ -160,7 +167,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 ## 🎙️ Before the Math
 
-Before the p-values, there was a radio mic. I hosted a weekly show during COVID that reached ~10,000 listeners, published a Bengali poetry collection (*"Sob Odvuture"* — 50+ poems, 200+ copies sold), and wrote/performed 15+ original songs. Turns out storytelling and statistical rigor want the same thing: something worth trusting.
+Before the p-values, there was a radio mic. I wrote and hosted a weekly late-night suspense show on Radio Kothabondhu, published a Bengali poetry collection (*"Sob Odvuture"*, 54 poems), and wrote and sang a few original songs. Turns out storytelling and statistical rigor want the same thing: something worth trusting.
 
 <br/>
 
@@ -170,7 +177,7 @@ Before the p-values, there was a radio mic. I hosted a weekly show during COVID 
 
 **🎓 B.Sc. CSE, RUET** · **HSC/SSC: perfect 5.00/5.00** · **IELTS 7.0**
 
-### 🎯 Currently chasing: a PhD that lets me do this at scale
+### 🎯 Currently chasing: graduate study that lets me do this at scale
 
 <br/>
 
